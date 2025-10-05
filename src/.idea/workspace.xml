@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22f2c743-0e3f-4f7e-b872-b25d53d003bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/main/java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/Agreement/AgreementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/Agreement/AgreementDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/Agreement/AgreementDaoSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/Order/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/Order/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/Order/OrderDaoSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/Product/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/Product/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/Product/ProductDaoSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/ProductPrice/ProductPriceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/ProductPrice/ProductPriceDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/ProductPrice/ProductPriceDaoSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/ProductQuantityDiscount/ProductQuantityDiscountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/ProductQuantityDiscount/ProductQuantityDiscountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/ProductQuantityDiscount/ProductQuantityDiscountDaoSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/ProductsPriceOrder/ProductsPriceOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/ProductsPriceOrder/ProductsPriceOrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/ProductsPriceOrder/ProductsPriceOrderDaoSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/SupplierCompanies/SupplierCompaniesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/SupplierCompanies/SupplierCompaniesDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/SupplierCompanies/SupplierCompaniesDaoSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/SupplierEmployee/SupplierEmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/SupplierEmployee/SupplierEmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/Backend/DataAccessLayer/SupplierEmployee/SupplierEmployeeDaoSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/DataTransferLayer/OrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/DataTransferLayer/ProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/DataTransferLayer/ProductsPriceOrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/DataTransferLayer/productQuantityOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/DataTransferLayer/ProductPriceDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/DataTransferLayer/ProductPriceDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/DataTransferLayer/ProductQuantityDiscountDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/DataTransferLayer/ProductQuantityDiscountDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/DataTransferLayer/SupplierAgreementDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/DataTransferLayer/SupplierAgreementDto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2wLpXWMuf6BDqdziO1hk3WK5D48" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging suppliers__updates",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22f2c743-0e3f-4f7e-b872-b25d53d003bc" name="Changes" comment="" />
+      <created>1745830752387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745830752387</updated>
+      <workItem from="1745830757960" duration="18000" />
+      <workItem from="1747570123838" duration="29000" />
+      <workItem from="1747585235699" duration="2825000" />
+      <workItem from="1747641154395" duration="41000" />
+      <workItem from="1747641209835" duration="6000" />
+      <workItem from="1748122304080" duration="1016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
